@@ -4,6 +4,12 @@ NLP model that classifies political question-answer pairs by response clarity us
 
 ---
 
+"""
+UT San Antonio NLP Competition - Political Response Clarity Classification
+- Kaggle Competition: https://www.kaggle.com/competitions/ut-san-antonio-nlp
+- Task: Classify political interview responses as Clear Reply, Ambivalent, or Clear Non-Reply
+- Approach: TF-IDF + LinearSVC with balanced class weights
+"""
 ## 🧠 Overview
 
 This project focuses on analyzing political language and classifying how clearly a response answers a question.
