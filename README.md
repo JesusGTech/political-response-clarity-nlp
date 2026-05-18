@@ -89,3 +89,7 @@ The SVM model performed better overall, especially in distinguishing clearer res
 ---
 
 ## 📁 Project Structure
+├── KaggleCompetition.ipynb
+├── submission.csv
+├── README.md
+└── requirements.txt
